@@ -1,16 +1,10 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/nuoyadev/nuoyadev/main/banner.png" width="100%"/>
-</div>div>
-
-<div align="center">
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=13&duration=3000&pause=1000&color=E8720C&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%E2%80%A2+Belgium;Building+Intelligent+Systems+%26+LLM+Workflows;Automation+Tools+That+Solve+Real+Problems" alt="Typing SVG" />
 </div>div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8720C&height=2" width="100%"/>
-</div>div>
+---
 
 ## 👤 ABOUT ME
 
@@ -20,13 +14,11 @@
 > - - 🎯 Focused on scalability, reliability & performance
 >   - - ⭐ Always learning. Always building.
 >    
->     - <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8720C&height=2" width="100%"/>
-</div>
-
-## ⚙️ THE THREE-HEADED STACK
-
-<div align="center">
+>     - ---
+>
+> ## ⚙️ THE THREE-HEADED STACK
+>
+> <div align="center">
 
 | 🧠 AI ENGINEER | 💬 LLM ENGINEER | 🖥️ SOFTWARE ENGINEER |
 |:---:|:---:|:---:|
@@ -34,9 +26,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8720C&height=2" width="100%"/>
-</div>div>
+---
 
 ## 🛠️ TECH STACK
 
@@ -60,9 +50,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8720C&height=2" width="100%"/>
-</div>div>
+---
 
 ## 🔨 WHAT I'M BUILDING
 
@@ -75,9 +63,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8720C&height=2" width="100%"/>
-</div>div>
+---
 
 ## 📊 GITHUB STATS
 
@@ -87,15 +73,13 @@
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoyadev&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E8720C&text_color=c0c0c0&border_color=E8720C&border_radius=6" height="160"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=nuoyadev&theme=dark&background=0d0d0d&ring=E8720C&fire=E8720C&currStreakLabel=E8720C&sideLabels=E8720C&dates=888888&border=E8720C&border_radius=6" height="150"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8720C&height=2" width="100%"/>
-</div>div>
+---
 
 ## 🤝 LET'S CONNECT
 
