@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/nuoyadev/nuoyadev/main/banner.png" width="100%"/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=13&duration=3000&pause=1000&color=E8720C&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%E2%80%A2+Belgium;Building+Intelligent+Systems+%26+LLM+Workflows;Automation+Tools+That+Solve+Real+Problems" alt="Typing SVG" />
-</div>div>
+</div>div
 
 ---
 
@@ -50,20 +50,11 @@
 
 </div>
 
----
-
 ## 🔨 WHAT I'M BUILDING
 
-<div align="center">
-
-| 🧪 LLM AGENT LAB | 📚 RAG KNOWLEDGE ENGINE | ⚡ AI AUTOMATION TOOLKIT |
-|:---:|:---:|:---:|
-| A playground for building, testing and deploying LLM agents with tools, memory and multi-step reasoning. | Production-ready RAG pipeline with document ingestion, vector search and evaluation. | Collection of automations, templates and utilities to streamline dev and AI workflows. |
-| ![Python](https://img.shields.io/badge/Python-E8720C?style=flat&logo=python&logoColor=black) ⭐ 24 | ![TypeScript](https://img.shields.io/badge/TypeScript-E8720C?style=flat&logo=typescript&logoColor=black) ⭐ 48 | ![Python](https://img.shields.io/badge/Python-E8720C?style=flat&logo=python&logoColor=black) ⭐ 31 |
-
-</div>
-
 ---
+---
+
 
 ## 📊 GITHUB STATS
 
